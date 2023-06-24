@@ -1,0 +1,11 @@
+<a [routerLink]="['']">Anasayfa</a>
+&nbsp;
+<a [routerLink]="['langs']">Langs</a>
+&nbsp;
+
+{{date | date:'fullDate'}}
+
+<button (click)="fetchData()">fetchData</button>
+
+
+<router-outlet></router-outlet>

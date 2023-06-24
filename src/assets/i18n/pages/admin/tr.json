@@ -1,0 +1,15 @@
+{
+  "Hello": "Merhaba",
+  "Modules": {
+    "Admin": {
+      "Pages": {
+        "Users": "Kullanıcılar"
+      }
+    },
+    "Crm": {
+      "Pages": {
+        "Employees": "Çalışanlar"
+      }
+    }
+  }
+}

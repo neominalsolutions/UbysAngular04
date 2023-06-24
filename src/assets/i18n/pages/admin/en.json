@@ -1,0 +1,15 @@
+{
+  "Hello": "Hello {{min}}",
+  "Modules": {
+    "Admin": {
+      "Pages": {
+        "Users": "Users Page"
+      }
+    },
+    "Crm": {
+      "Pages": {
+        "Employees": "Employee Pages"
+      }
+    }
+  }
+}

@@ -1,0 +1,9 @@
+<select (change)="onLangChange($any($event.target).value)">
+  <option value="tr">Turkçe</option>
+  <option value="en">English</option>
+</select>
+
+
+<p [translate]="'Hello'" [translateParams]="{min:5}"></p>
+
+<p>{{'Modules.Admin.Pages.Users' | translate}}</p>
